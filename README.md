@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i love deruny - its a fried potato
-
+- ⚡ Fun fact: i like making sourdough
 <!---
 Pinkpiggy-official/Pinkpiggy-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
